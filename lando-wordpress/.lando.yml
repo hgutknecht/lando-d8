@@ -1,0 +1,4 @@
+name: hans-lando-wordpress
+recipe: wordpress
+config:
+  webroot: .
