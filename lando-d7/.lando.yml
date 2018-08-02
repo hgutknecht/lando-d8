@@ -1,0 +1,4 @@
+name: hans-lando-drupal-7
+recipe: drupal7
+config:
+  webroot: .

@@ -1,0 +1,4 @@
+name: hans-lando-drupal-8
+recipe: drupal8
+config:
+  webroot: .
